@@ -1,0 +1,18 @@
+# ignore local eviroiments
+.venv
+.env
+*.env
+
+# ignore videos files
+*.mp4
+*.webm
+*.mkv
+*.ogg
+
+# ignore images files
+*.jpg,*.jpeg
+*.png
+*.webp
+*.bmp
+*.tiff
+*.icon
