@@ -1,6 +1,5 @@
 import numpy as np
 import cv2 as cv
-from matplotlib import pyplot as plt
 
 def edges_detection(img: str, values: tuple = (100, 200)):
     assert img is not None, "file could not be read, check with os.path.exists()"
