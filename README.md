@@ -3,7 +3,7 @@
 This repo contains some pratical examples we've expirencied on my 
 stduies cases over OpenCV pythom module. This is to my own consult later too.
 
-On the examples folder examples there are some pratical, basic and simple exemple of using ```opencv-python``` library. We can improve this example by visting OpenCV Site to get more information to build more complex tools that can auxiliar us in our tasks with video and image handler.
+On the examples folder examples there are some pratical, basic and simple example of using ```opencv-python``` library. We can improve this example by visting OpenCV Site to get more information to build more complex tools that can auxiliar us in our tasks with video and image handler.
 
 ## With OpenCV Python what can we do?
 
