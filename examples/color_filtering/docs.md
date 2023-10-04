@@ -1,6 +1,6 @@
 # Work with Color filtering
 
-This exemple was made with filtering color from the image. but it can be done from the both video file or video form a camera...
+This exemple was made with the filtered color from the image. but it can be done from the both video file or video form a camera...
 
 For this example, we have worked with the follow methods:
 
