@@ -16,3 +16,4 @@ All the MatLike result can be shown on preview window or save directily to the f
 ## What can we improve in this exemple?
 
 The **threshold array** can be set up to dinamically values. For example, set up to pass it on runtime by pass as the argument of function...
+

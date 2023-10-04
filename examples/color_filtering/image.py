@@ -28,3 +28,4 @@ def filter_color(path: str):
 
 if __name__ == '__main__':
     filter_color(IMAGE_SOURCE)
+
